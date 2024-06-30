@@ -1,0 +1,15 @@
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\DenyTirinaCartagena.exe.config
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\DenyTirinaCartagena.exe
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\DenyTirinaCartagena.pdb
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.csproj.AssemblyReference.cache
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.Properties.Resources.resources
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.csproj.GenerateResource.cache
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.csproj.CoreCompileInputs.cache
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.exe
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.pdb
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.FrmMotivoConsulta.resources
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\CapaDeNegocio.dll
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\CapaDeNegocio.pdb
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\obj\Debug\DenyTirinaCartagena.csproj.CopyComplete
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\CapaDeDatos.dll
+D:\C#\DenyTirinaCartagena\DenyTirinaCartagena\bin\Debug\CapaDeDatos.pdb

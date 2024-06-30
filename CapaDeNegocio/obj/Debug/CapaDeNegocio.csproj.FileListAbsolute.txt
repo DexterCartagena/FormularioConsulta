@@ -1,0 +1,9 @@
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+D:\C#\DenyTirinaCartagena\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete

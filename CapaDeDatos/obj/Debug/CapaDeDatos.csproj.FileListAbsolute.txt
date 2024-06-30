@@ -1,0 +1,9 @@
+D:\C#\DenyTirinaCartagena\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+D:\C#\DenyTirinaCartagena\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+D:\C#\DenyTirinaCartagena\CapaDeDatos\bin\Debug\System.Data.SqlClient.dll
+D:\C#\DenyTirinaCartagena\CapaDeDatos\bin\Debug\System.Data.SqlClient.xml
+D:\C#\DenyTirinaCartagena\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+D:\C#\DenyTirinaCartagena\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+D:\C#\DenyTirinaCartagena\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+D:\C#\DenyTirinaCartagena\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+D:\C#\DenyTirinaCartagena\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
